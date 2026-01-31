@@ -26,7 +26,7 @@ Then, we can refer to `name` in the markup:
 <h1>Hello +++{name}+++!</h1>
 ```
 
-Inside the curly braces, we can put any JavaScript we want. Try changing `name` to `name.toUpperCase()` for a shoutier greeting.
+Inside the curly braces, we can put any JavaScript we want. Try changing `name` to `name.toUpperCase()` for a SHOUTIER greeting.
 
 ```svelte
 /// file: App.svelte
