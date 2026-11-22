@@ -1,6 +1,6 @@
 {
   "name": "@sveltejs/adapter-cloudflare",
-  "npm_description": "Adapts SvelteKit applications for Cloudflare Workers or Cloudflare Pages",
+  "npm_description": "Adapts SvelteKit applications for Cloudflare Workers",
   "repo_url": "https://github.com/sveltejs/kit",
   "authors": [
     "rich_harris",
@@ -8,11 +8,11 @@
     "conduitry"
   ],
   "homepage": "https://svelte.dev/docs/kit/adapter-cloudflare",
-  "version": "7.2.9",
-  "downloads": 162219,
-  "github_stars": 20282,
-  "updated": "2026-06-16T19:00:42.565Z",
-  "kit_range": "^2.0.0",
+  "version": "9.0.0",
+  "downloads": 672021,
+  "github_stars": 20926,
+  "updated": "2026-11-18T22:49:29.780Z",
+  "kit_range": "^3.0.0-next.0",
   "typescript": true,
   "runes": false,
   "last_rune_check_version": "7.0.1"
