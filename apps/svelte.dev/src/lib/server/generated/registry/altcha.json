@@ -6,11 +6,11 @@
     "ovx"
   ],
   "homepage": "https://altcha.org",
-  "version": "3.1.0",
-  "downloads": 78484,
-  "github_stars": 2509,
-  "updated": "2026-06-11T04:33:55.748Z",
-  "svelte_range": "^5.53.10",
+  "version": "3.7.0",
+  "downloads": 344145,
+  "github_stars": 2916,
+  "updated": "2026-11-20T05:15:16.942Z",
+  "svelte_range": "^5.57.0",
   "typescript": true,
   "runes": false,
   "last_rune_check_version": "1.4.2"
